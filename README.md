@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 👋 I'm Ricky Huang
+
+<p align="center">
+img src="https://github-readme-streak-stats.herokuapp.com/?user=RickyHuang-png&theme=radical" alt="Hoang Son's GitHub Streak" />
+  </a>
+</p>
 
 <!--
 **RickyHuang-png/RickyHuang-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
