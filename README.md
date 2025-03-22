@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Ricky Huang
 
 <p align="center">
-img src="https://github-readme-streak-stats.herokuapp.com/?user=RickyHuang-png&theme=radical" alt="Hoang Son's GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RickyHuang-png&theme=radical" alt="Hoang Son's GitHub Streak" />
   </a>
 </p>
 
